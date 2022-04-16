@@ -1,14 +1,8 @@
 ### Hi there 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-LiuDC&count_private=true&show_icons=true)](https://github.com/Mr-LiuDC)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-LiuDC&layout=compact)](https://github.com/Mr-LiuDC)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-LiuDC)](https://github.com/Mr-LiuDC)
 
 <!--
 
