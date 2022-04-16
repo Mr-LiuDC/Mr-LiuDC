@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-LiuDC&count_private=true&show_icons=true)](https://github.com/Mr-LiuDC/Mr-LiuDC)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-LiuDC&count_private=true&show_icons=true)](https://github.com/Mr-LiuDC)
 
 
 
