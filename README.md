@@ -1,6 +1,11 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-LiuDC&count_private=true&show_icons=true&theme=radical)](https://github.com/Mr-LiuDC/Mr-LiuDC)
+
+
+
 <!--
+
 **Mr-LiuDC/Mr-LiuDC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +18,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🌱 [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+- 🐍 [Platane](https://github.com/Platane/Platane)
+- 😄 [Emoji](https://github.com/ikatyang/emoji-cheat-sheet)
+- 📊 https://www.techug.com/post/github-bigquery-query-result.html
+
 -->
