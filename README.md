@@ -2,10 +2,10 @@
 
 <figure class="third">
   <a href="https://github.com/Mr-LiuDC">
-    <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=Mr-LiuDC&count_private=true&show_icons=true&line_height=30" />
+    <img align="left" width="420" src="https://github-readme-stats.vercel.app/api?username=Mr-LiuDC&count_private=true&show_icons=true&line_height=30" />
   </a>
   <a href="https://github.com/Mr-LiuDC">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-LiuDC&layout=compact&card_width=322" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-LiuDC&layout=compact&card_width=300" />
   </a>
 </figure>
 
