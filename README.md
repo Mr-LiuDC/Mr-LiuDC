@@ -16,6 +16,12 @@
 <a href="https://blog.aipark.fun">
   <img align="center" width="405" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-LiuDC&repo=mr-liudc.github.io" />
 </a>
+<a href="https://github.com/Mr-LiuDC/flask-example-restapi">
+  <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-LiuDC&repo=flask-example-restapi" />
+</a>
+<a href="https://github.com/Mr-LiuDC/tensorflow-machine-learning">
+  <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-LiuDC&repo=tensorflow-machine-learning" />
+</a>
 </figure>
 
 
