@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### GitHub Stats
 <figure class="third">
   <a href="https://github.com/Mr-LiuDC">
     <img width="420" src="https://github-readme-stats.vercel.app/api?username=Mr-LiuDC&count_private=true&show_icons=true&line_height=30" />
@@ -9,7 +8,21 @@
   </a>
 </figure>
 
+### Pinned Repo
+<figure class="third">
+<a href="https://github.com/my-open-course/jenkins-pipeline-shared-libraries">
+  <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=my-open-course&repo=jenkins-pipeline-shared-libraries" />
+</a>
+<a href="https://blog.aipark.fun">
+  <img align="center" width="405" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-LiuDC&repo=mr-liudc.github.io" />
+</a>
+</figure>
+
+
+
 <!--
+
+### Hi there 👋
 
 **Mr-LiuDC/Mr-LiuDC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
