@@ -25,6 +25,19 @@
 </a>
 </figure>
 
+### About Me
+
+:cactus: Living in Chengdu.China, working in <a href="https://rplushealth.cn" target="_blank">Shangyi</a> a company engaged in digital therapy research.
+
+:ear_of_rice: Good at Java technology stack, little understanding of Python.
+
+:desert_island: Focuses on Java microservice and container technology.
+
+:palm_tree: Back-end development and server maintenance. 
+
+:seedling: Introverted and like to explore new things. 
+
+:shamrock: Devops practitioner. 
 
 
 <!--
