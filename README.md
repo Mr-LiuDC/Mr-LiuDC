@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-LiuDC&count_private=true&show_icons=true&hide=prs&line_height=24)](https://github.com/Mr-LiuDC)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-LiuDC&layout=compact&card_width=300)](https://github.com/Mr-LiuDC)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-LiuDC&layout=compact&card_width=220)](https://github.com/Mr-LiuDC)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-LiuDC&layout=compact&card_width=445)](https://github.com/Mr-LiuDC)
 -->
