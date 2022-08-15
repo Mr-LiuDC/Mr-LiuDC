@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-<a>
-  <img align="center" width="600" src="https://github-readme-stats.vercel.app/api?username=Mr-LiuDC&count_private=true&show_icons=true&line_height=30" />
-</a>
-<a>
-  <img align="center" width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-LiuDC&layout=compact&card_width=250" />
-</a>
+<figure class="third">
+  <img width="300" src="https://github-readme-stats.vercel.app/api?username=Mr-LiuDC&count_private=true&show_icons=true&line_height=30" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-LiuDC&layout=compact&card_width=250" />
+</figure>
 
 <!--
 
