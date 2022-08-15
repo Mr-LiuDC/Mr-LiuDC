@@ -2,7 +2,7 @@
 
 <figure class="third">
   <img align="left" width="420" src="https://github-readme-stats.vercel.app/api?username=Mr-LiuDC&count_private=true&show_icons=true&line_height=30" />
-  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-LiuDC&layout=compact&card_width=320" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-LiuDC&layout=compact&card_width=300" />
 </figure>
 
 <!--
