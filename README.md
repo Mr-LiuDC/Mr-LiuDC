@@ -1,10 +1,10 @@
 ### GitHub Stats
 <figure class="third">
   <a href="https://github.com/Mr-LiuDC">
-    <img width="406" src="https://github-readme-stats.vercel.app/api?username=Mr-LiuDC&count_private=true&show_icons=true&line_height=31.9" />
+    <img width="406" src="https://github-readme-stats.vercel.app/api?username=Mr-LiuDC&count_private=true&show_icons=true&line_height=30" />
   </a>
   <a href="https://github.com/Mr-LiuDC">
-    <img width="406" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-LiuDC&layout=compact&card_width=300" />
+    <img width="406" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-LiuDC&layout=compact&card_width=310" />
   </a>
 </figure>
 
