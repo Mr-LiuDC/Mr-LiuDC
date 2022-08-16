@@ -1,27 +1,27 @@
 ### GitHub Stats
 <figure class="third">
   <a href="https://github.com/Mr-LiuDC">
-    <img width="420" src="https://github-readme-stats.vercel.app/api?username=Mr-LiuDC&count_private=true&show_icons=true&line_height=30" />
+    <img width="406" src="https://github-readme-stats.vercel.app/api?username=Mr-LiuDC&count_private=true&show_icons=true&line_height=31.9" />
   </a>
   <a href="https://github.com/Mr-LiuDC">
-    <img width="405" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-LiuDC&layout=compact&card_width=300" />
+    <img width="406" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-LiuDC&layout=compact&card_width=300" />
   </a>
 </figure>
 
 ### Pinned Repo
 <figure class="third">
 <a href="https://github.com/my-open-course/jenkins-pipeline-shared-libraries">
-  <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=my-open-course&repo=jenkins-pipeline-shared-libraries" />
+  <img align="center" width="406" src="https://github-readme-stats.vercel.app/api/pin/?username=my-open-course&repo=jenkins-pipeline-shared-libraries" />
 </a>
 <a href="https://blog.aipark.fun">
-  <img align="center" width="405" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-LiuDC&repo=mr-liudc.github.io" />
+  <img align="center" width="406" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-LiuDC&repo=mr-liudc.github.io" />
 </a>
 <p></p> 
 <a href="https://github.com/Mr-LiuDC/flask-example-restapi">
-  <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-LiuDC&repo=flask-example-restapi" />
+  <img align="center" width="406" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-LiuDC&repo=flask-example-restapi" />
 </a>
 <a href="https://github.com/Mr-LiuDC/tensorflow-machine-learning">
-  <img align="center" width="405" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-LiuDC&repo=tensorflow-machine-learning" />
+  <img align="center" width="406" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-LiuDC&repo=tensorflow-machine-learning" />
 </a>
 </figure>
 
