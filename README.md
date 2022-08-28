@@ -1,6 +1,55 @@
 <h1 align="center">Hi 👋, I'm Decai Liu</h1>
 <h3 align="center">A passionate backend developer from China</h3>
 
+
+<h3 align="left">GitHub Stats:</h3>
+
+<figure class="third">
+  <a href="https://github.com/Mr-LiuDC">
+    <img width="406" src="https://github-readme-stats.vercel.app/api?username=Mr-LiuDC&count_private=true&show_icons=true&line_height=30" />
+  </a>
+  <a href="https://github.com/Mr-LiuDC">
+    <img width="406" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-LiuDC&layout=compact&card_width=310" />
+  </a>
+</figure>
+
+
+<h3 align="left">Pinned Repo:</h3>
+
+<figure class="third">
+<a href="https://github.com/my-open-course/jenkins-pipeline-shared-libraries">
+  <img align="center" width="406" src="https://github-readme-stats.vercel.app/api/pin/?username=my-open-course&repo=jenkins-pipeline-shared-libraries" />
+</a>
+<a href="https://blog.aipark.fun">
+  <img align="center" width="406" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-LiuDC&repo=mr-liudc.github.io" />
+</a>
+<p></p> 
+<a href="https://github.com/Mr-LiuDC/flask-example-restapi">
+  <img align="center" width="406" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-LiuDC&repo=flask-example-restapi" />
+</a>
+<a href="https://github.com/Mr-LiuDC/tensorflow-machine-learning">
+  <img align="center" width="406" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-LiuDC&repo=tensorflow-machine-learning" />
+</a>
+</figure>
+
+
+<h3 align="left">About Me:</h3>
+
+🌵 Living in Chengdu.China, working in <a href="https://rplushealth.cn" target="_blank">Shangyi</a> a company engaged in
+digital therapy research.
+
+🌾 Good at Java technology stack, little understanding of Python.
+
+🏝️ Focuses on Java microservice and container technology.
+
+🌴 Back-end development and server maintenance.
+
+🌱 Introverted and like to explore new things.
+
+☘ Devops practitioner.
+
+📫 Reach me **liudecai.hpe@gmail.com**
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -122,51 +171,21 @@
     </a>
 </p>
 
-### GitHub Stats
 
-<figure class="third">
-  <a href="https://github.com/Mr-LiuDC">
-    <img width="406" src="https://github-readme-stats.vercel.app/api?username=Mr-LiuDC&count_private=true&show_icons=true&line_height=30" />
-  </a>
-  <a href="https://github.com/Mr-LiuDC">
-    <img width="406" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-LiuDC&layout=compact&card_width=310" />
-  </a>
-</figure>
 
-### Pinned Repo
 
-<figure class="third">
-<a href="https://github.com/my-open-course/jenkins-pipeline-shared-libraries">
-  <img align="center" width="406" src="https://github-readme-stats.vercel.app/api/pin/?username=my-open-course&repo=jenkins-pipeline-shared-libraries" />
-</a>
-<a href="https://blog.aipark.fun">
-  <img align="center" width="406" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-LiuDC&repo=mr-liudc.github.io" />
-</a>
-<p></p> 
-<a href="https://github.com/Mr-LiuDC/flask-example-restapi">
-  <img align="center" width="406" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-LiuDC&repo=flask-example-restapi" />
-</a>
-<a href="https://github.com/Mr-LiuDC/tensorflow-machine-learning">
-  <img align="center" width="406" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-LiuDC&repo=tensorflow-machine-learning" />
-</a>
-</figure>
 
-### About Me
 
-🌵 Living in Chengdu.China, working in <a href="https://rplushealth.cn" target="_blank">Shangyi</a> a company engaged in
-digital therapy research.
 
-🌾 Good at Java technology stack, little understanding of Python.
 
-🏝️ Focuses on Java microservice and container technology.
 
-🌴 Back-end development and server maintenance.
 
-🌱 Introverted and like to explore new things.
 
-☘️ Devops practitioner.
 
-📫 Reach me **liudecai.hpe@gmail.com**
+
+
+
+
 
 
 <!--
