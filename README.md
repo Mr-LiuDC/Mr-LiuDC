@@ -5,31 +5,31 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <figure class="third">
-  <a href="https://github.com/Mr-LiuDC">
-    <img width="406" src="https://github-readme-stats.vercel.app/api?username=Mr-LiuDC&count_private=true&show_icons=true&line_height=30" />
-  </a>
-  <a href="https://github.com/Mr-LiuDC">
-    <img width="406" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-LiuDC&layout=compact&card_width=310" />
-  </a>
+    <a href="https://github.com/Mr-LiuDC">
+        <img width="406" src="https://github-readme-stats.vercel.app/api?username=Mr-LiuDC&count_private=true&show_icons=true&line_height=30" />
+    </a>
+    <a href="https://github.com/Mr-LiuDC">
+        <img width="406" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-LiuDC&layout=compact&card_width=310" />
+    </a>
 </figure>
 
 
 <h3 align="left">Pinned Repo:</h3>
 
 <figure class="third">
-<a href="https://github.com/my-open-course/jenkins-pipeline-shared-libraries">
-  <img align="center" width="406" src="https://github-readme-stats.vercel.app/api/pin/?username=my-open-course&repo=jenkins-pipeline-shared-libraries" />
-</a>
-<a href="https://blog.aipark.fun">
-  <img align="center" width="406" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-LiuDC&repo=mr-liudc.github.io" />
-</a>
-<p></p> 
-<a href="https://github.com/Mr-LiuDC/flask-example-restapi">
-  <img align="center" width="406" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-LiuDC&repo=flask-example-restapi" />
-</a>
-<a href="https://github.com/Mr-LiuDC/tensorflow-machine-learning">
-  <img align="center" width="406" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-LiuDC&repo=tensorflow-machine-learning" />
-</a>
+    <a href="https://github.com/my-open-course/jenkins-pipeline-shared-libraries">
+        <img align="center" width="406" src="https://github-readme-stats.vercel.app/api/pin/?username=my-open-course&repo=jenkins-pipeline-shared-libraries" />
+    </a>
+    <a href="https://blog.aipark.fun">
+        <img align="center" width="406" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-LiuDC&repo=mr-liudc.github.io" />
+    </a>
+    <p></p>
+    <a href="https://github.com/Mr-LiuDC/flask-example-restapi">
+        <img align="center" width="406" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-LiuDC&repo=flask-example-restapi" />
+    </a>
+    <a href="https://github.com/Mr-LiuDC/tensorflow-machine-learning">
+        <img align="center" width="406" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-LiuDC&repo=tensorflow-machine-learning" />
+    </a>
 </figure>
 
 
@@ -37,18 +37,19 @@
 
 🌵 Living in Chengdu.China, working in <a href="https://rplushealth.cn" target="_blank">Shangyi</a> a company engaged in
 digital therapy research.
-
+<br>
 🌾 Good at Java technology stack, little understanding of Python.
-
+<br>
 🏝️ Focuses on Java microservice and container technology.
-
+<br>
 🌴 Back-end development and server maintenance.
-
+<br>
 🌱 Introverted and like to explore new things.
-
+<br>
 ☘ Devops practitioner.
-
+<br>
 📫 Reach me **liudecai.hpe@gmail.com**
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -80,6 +81,10 @@ digital therapy research.
         <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
              alt="flask" width="40" height="40"/>
     </a>
+    <a href="https://www.shellscript.sh/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
+             alt="shellscript" width="40" height="40"/>
+    </a>
     <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
              alt="jenkins" width="40" height="40"/>
@@ -95,6 +100,10 @@ digital therapy research.
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"
              alt="docker" width="40" height="40"/>
+    </a>
+    <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"
+             alt="kubernetes" width="40" height="40"/>
     </a>
     <a href="https://docs.ansible.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg"
@@ -161,6 +170,10 @@ digital therapy research.
         <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"
              alt="opencv" width="40" height="40"/>
     </a>
+    <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg"
+             alt="anaconda" width="40" height="40"/>
+    </a>
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"
              alt="pytorch" width="40" height="40"/>
@@ -170,49 +183,3 @@ digital therapy research.
              alt="tensorflow" width="40" height="40"/>
     </a>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-
-### Hi there 👋
-
-**Mr-LiuDC/Mr-LiuDC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🌱 [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-- 🐍 [Platane](https://github.com/Platane/Platane)
-- 😄 [Emoji](https://github.com/ikatyang/emoji-cheat-sheet)
-- 📊 https://www.techug.com/post/github-bigquery-query-result.html
-
-https://github.com/abhisheknaiidu/awesome-github-profile-readme
-https://github.com/rahuldkjain/github-profile-readme-generator
-https://www.youtube.com/watch?v=n6d4KHSKqGk
-https://www.vectorlogo.zone/
-https://devicon.dev/
-https://github.com/devicons/devicon
--->
