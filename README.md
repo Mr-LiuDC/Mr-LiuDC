@@ -37,17 +37,17 @@
 
 🌵 Living in Chengdu.China, working in <a href="https://rplushealth.cn" target="_blank">Shangyi</a> a company engaged in
 digital therapy research.
-<br>
+<br><br>
 🌾 Good at Java technology stack, little understanding of Python.
-<br>
+<br><br>
 🏝️ Focuses on Java microservice and container technology.
-<br>
+<br><br>
 🌴 Back-end development and server maintenance.
-<br>
+<br><br>
 🌱 Introverted and like to explore new things.
-<br>
+<br><br>
 ☘ Devops practitioner.
-<br>
+<br><br>
 📫 Reach me **liudecai.hpe@gmail.com**
 
 
