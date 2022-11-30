@@ -35,7 +35,7 @@
 
 <h3 align="left">About Me:</h3>
 
-🌵 Living in Chengdu.China, working in <a href="https://wwwrplushealth.com" target="_blank">Shangyi</a> a company engaged in
+🌵 Living in Chengdu.China, working in <a href="https://www.rplushealth.com" target="_blank">Shangyi</a> a company engaged in
 digital therapy research.
 <br><br>
 🌾 Good at Java technology stack, little understanding of Python.
