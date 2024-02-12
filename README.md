@@ -118,7 +118,7 @@ digital therapy research.
              alt="git" width="40" height="40"/>
     </a>
     <a href="https://gradle.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg"
+        <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/gradle/gradle-original.svg"
              alt="gradle" width="40" height="40"/>
     </a>
     <br>
